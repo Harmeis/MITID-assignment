@@ -46,7 +46,7 @@ Create a subfolder for each project iteration.
 #### Photographs
 Youtube video of the prototype lerping between colors
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Rb1v3GvMv4M
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=Rb1v3GvMv4M](https://youtube.com/shorts/B4dHM_EmBKk)
 " target="_blank"><img src="http://img.youtube.com/vi/Rb1v3GvMv4M/0.jpg" 
 alt="youtube demo video" width="400" height="300" border="10" /></a>
 
